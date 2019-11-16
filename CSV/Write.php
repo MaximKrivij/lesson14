@@ -1,5 +1,5 @@
 <?php
-require_once 'WriteInterface.php';
+
 class Write implements WriteInterface
 {
     private $_csv_file = null;
