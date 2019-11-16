@@ -1,5 +1,5 @@
 <?php
-require_once 'ReadInterface.php';
+
 class Read implements ReadInterface
 {
     private $_csv_file = null;
